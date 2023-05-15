@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="new_user_signup">New User? <b>SignUp</b></string>
+    <string name="please_login">Please Login</string>
+    <string name="the_description_of_the_book">The description of the book</string>
+    <string name="n_a">N/A</string>
+    <string name="downloads">Downloads</string>
+</resources>
